@@ -1,0 +1,14 @@
+
+1. JS Introduction - DOM, Alert, Confirm,Prompt
+2. Boostrap=>Components and classes functionalities
+
+CSS Grid vs Flex
+Positions - Relative and absolute Done
+Bootstrap Flex classes
+Bootstrap Components
+
+
+
+HTML DOM => Methods(functions) => perform something on html elements
+
+HTML DOM => properties

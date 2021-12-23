@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Pacifico|Righteous|Roboto+Condensed|Ubuntu');
+
+body{
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Lato';
+	overflow-x: hidden;
+}
+
+.navbar-brand{
+	font-family: 'Pacifico';
+	font-size: 35px;
+	color: lightcoral;
+}
+
+.nav-link{
+	font-size: 16px;
+	color: black;
+	margin: 15px;
+	font-family: 'Roboto Condensed';
+}
+.nav-link:hover{
+	color: rgb(28, 212, 53);
+}
+.active .nav-link{
+	color: rgb(128, 240, 175);
+}
+.menu-right-btn{
+	padding: 13px 46px;
+	margin: 4%;
+	background-color: transparent;
+	transition: all 300ms ease-in;
+}
+
+.menu-right-btn:hover{
+	background-color: aqua;
+	color: white;
+}
+
+.site-content{
+	background-image: url("./images/image2.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+.site-title, .site-desc{
+	color: white;
+	font-family:'Righteous';
+}
+
+.site-title{
+	margin-top: 30%;
+	margin-bottom: 6%;
+	font-size: 50px;
+	text-align: center;
+}
+.site-desc{
+	font-size: 16px;
+	padding-left: 2%;
+	text-align: center;
+}
+.site-btn1{
+	margin-top: 6%;
+	margin-bottom: 30%;
+	margin-left: 20%;
+	background-color: black;
+	color: white;
+}
+.site-btn2{
+	margin-top: 6%;
+	margin-bottom: 30%;
+	background-color: bisque;
+}
+	
+/* section-1  */
+
+.section-1 .heading-1{
+	margin-top: 2%;
+}
+
+.section-1 .heading-2{
+	margin-bottom: 3%;
+}
+
+.section-1 .para-1{
+	width: 80%;
+	margin-left: 10%;
+	margin-bottom: 4%;
+	text-align: center;
+}
+
+.section-1 .card-text, .para-1{
+	color:rgba(0, 0, 0, 0.59);
+}
+
+.section-1{
+	margin-bottom: 5%;
+}
+
+.section-1 .card{
+	width: 20rem;
+}
+
+/*section-2 */
+
+.section-2 .container-fluid{
+	background-image: url("./images/image3.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+.section-2 .heading-1{
+	margin-top: 15%;
+	margin-bottom: 4%;	
+	font-family: 'Righteous';
+	width: 80%;
+	margin-left: 35%;
+	color: whitesmoke;
+}
+.section-2 .para-1{
+	font-family: 'ubuntu';
+	color: whitesmoke;
+	width: 80%;
+	margin-bottom: 6%;
+	margin-left: 15%;
+	font-size: 18px;
+}
+.section-2 .btn1{
+	margin-bottom: 10%;
+	width: 15%;
+	padding: 10px 10px;
+	margin-left: 42%;
+}
+
+/*section 3*/
+
+.section-3{
+	margin-top: 6%;
+}
+.section-3 i{
+	color:lightseagreen;
+}
+.section-3 p{
+	color: rgba(0, 0, 0, 0.59);
+}
+
+/* section-4  */
+
+.section-4{
+	margin-top: 6%;
+}
+.section-4 .col-md-7,.col-md-5{
+	margin-top: 7%;
+	margin-bottom: 7%;
+}
+.section-4 a{
+	color:white;
+	font-size: 40px;
+	text-decoration: none;
+	background-color:green;
+	padding: 10px 25px;
+	text-align: center;
+	border-radius: 12px;
+}
+
+.section-4 a:hover, a:active {
+	background-color:lightgreen;
+  }
+
+  .section-4 .para-1{
+	  color: white;
+	  font-family: 'Roboto Condensed';
+	  margin-top: 10%;
+	  font-size: 22px;
+  }
+/* section-5  */
+
+.section-5 .social{
+	margin-top: 5%;
+	font-size: 30px;
+}
+.section-5 .social .fb{
+	color: rgb(66,103,178);
+}
+.section-5 .social .tw{
+	color: rgb(85,172,239);
+}
+.section-5 .social .yt{
+	color: rgb(255,0,0);
+}
+
+
+.section-5 .form{
+	display: inline;
+
+	margin-top: 5%;
+}
+.section-5 .form .text{
+	width: 30%;
+	padding: 6px;
+	
+}
+.section-5 .form .btn2{
+	padding: 6px;
+}
+.section-5 h4{
+	font-family:'Righteous' ;
+}
+
+
+@media only screen and(max-width: 768px){
+	.section-1 .card{
+		width: 1rem;
+	}
+	.section-4 .col-md-7 img{
+		width: 350px;
+	}
+
+
+}
+@media only screen and(max-width: 320px){
+	.site-content .site-title {
+		font-size: 30px;
+		padding-left: 15%;
+	}
+}
+
+
+
+
+
+
+
+

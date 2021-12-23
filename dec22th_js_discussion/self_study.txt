@@ -1,0 +1,35 @@
+Input values=>in btn
+1. I can use an event listeners
+2. I can use onclick
+
+If i am using input=>
+    I have to use .value
+If i am using other tags(e.g. duiv,p,h1)=>
+    .innerText or .innerHTML
+
+
+
+eval function in javascript
+switch case
+Event listeners=>click
+
+getElementById
+getElementsByClassName
+
+Array in Javascript
+All the prime numbers less than 10 [2,3,5,7]
+Array=>Map
+
+
+C++(Array) => [1.1,2,3.86]
+Python(List) => 
+[
+    1,
+    2.5,
+    "Rohan",
+    [
+        2,
+        3,
+        "dutt"
+    ]
+]
