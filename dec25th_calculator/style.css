@@ -34,5 +34,5 @@
 .btn:hover{
     background-color: #323330;
     color: white;
-    transition: 0.5 ease-in-out;
+    transition: 0.5s ease-in-out;
 }
