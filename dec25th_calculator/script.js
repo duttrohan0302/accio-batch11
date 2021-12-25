@@ -25,8 +25,8 @@ C => display should get empty
 
 let displayxyz = document.getElementById("display")
 
-// let buttonsxyz = Array.from(document.getElementsByClassName("btn"))
-
+let buttonsxyz = (document.getElementsByClassName("btn"))
+console.log(buttonsxyz)
 // // btnxyz
 
 // function clickingxyz(btnxyz){
@@ -60,12 +60,21 @@ let displayxyz = document.getElementById("display")
 
 // Alternate Method
 
+function isOpxyz(opxyz){
+    if(opxyz==="+" || opxyz==='-' || opxyz==='/' || opxyz==='*')
+        return true
+    return false
+}
 function clickingxyz(clickedxyz){
     if(displayxyz.innerText===""){
         if(clickedxyz!='0'){
             displayxyz.innerText = displayxyz.innerText+clickedxyz
         }
     }else{
+        // Just to make sure that 2 operators don't come in consecutive positions
+        if(isOpxyz(clickedxyz) && isOpxyz(displayxyz.innerText[displayxyz.innerText.length-1])){
+            displayxyz.innerText = displayxyz.innerText.slice(0,-1)
+        }
         displayxyz.innerText = displayxyz.innerText+clickedxyz
     }
 }
