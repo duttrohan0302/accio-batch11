@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script>
+        function palindrome(str) {
+            // your code here!
+            // str = str.toLowerCase()
+            // First method
+            // Check 1st and last char, check 2nd and 2nd last char and so on
+            let len = str.length;
+
+            // for(statement1; statement2;statement3)
+            for(let index=0;index<len/2;index++){
+                if(str[index]!==str[len-1-index]){
+                    return false;
+                }
+            }
+            return true;
+            //code end. don't edit anything below
+        }
+
+        function pal(str){
+            let toArr = str.split("") // ['h','e','l','l','o']
+            let revArr = toArr.reverse() // ['o','l','l','e','h']
+
+            let revStr = revArr.join("")  //"olleh"
+
+            if(str===revStr){
+                return true
+            }else{
+                return false
+            }
+
+        }
+
+        console.log(pal("five|_/|four"))
+        // console.log(palindrome("NaMAn")) // true
+        // console.log(palindrome("rohan")) // false
+        // console.log(palindrome("abcddcba"))  //true
+
+        // nItin => also a palindrome
+
+
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
