@@ -1,0 +1,31 @@
+Objects
+
+let obj = {
+    "rohan" : 5,
+    3 : "dutt",
+    6: 7,
+    "accio":{
+        "abc": 2,
+        "def": "200abc",
+        "arraymychoice": [1,2,3,"100"],
+        "flag": true
+    }
+    myfunc: function(){
+        return a+b;
+    }
+}
+
+
+Recursion - base case, fibonacci
+Time Complexity - linear search, binary search
+Sorting Methods - 2,3 Methods
+Replit Assignment
+
+
+
+Practice - 
+Read abt time complexities
+Practice the recursion codes, both using recursion and for loops
+Try to implement Binary Search
+
+
