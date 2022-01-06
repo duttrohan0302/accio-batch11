@@ -1,0 +1,14 @@
+Merge Sort
+Check if a number is prime or not - 2 factors, check only till sqrt
+
+Signed & Unsigned
+1 byte = 8 bits 
+10101011
+
+0 to 255 => Unsigned = 2^8-1 = 255
+
+
+Signed => first bit 0 means +ve no. and first bit 1 means -ve number
+Only 7 bits are remaining -128 to 127
+
+
