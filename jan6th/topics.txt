@@ -1,0 +1,2 @@
+Convert number to binary - Using division method and to string method
+Is a power of 2 ? Divide by 2, or use bitwise and 
