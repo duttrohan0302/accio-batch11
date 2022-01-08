@@ -1,2 +1,7 @@
 Convert number to binary - Using division method and to string method
 Is a power of 2 ? Divide by 2, or use bitwise and 
+
+
+
+Square root using binary search
+An array arr such that one element occurs once, rest all occur twice
