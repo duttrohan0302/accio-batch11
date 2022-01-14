@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+
+
+        // setTimeout(sayHello,5000) //No arguments
+
+        // setTimeout(sayHello,2000,"Rohan","Dutt")
+        // setTimeout("sayHello('Rohan','Dutt')",2000)
+        // setTimeout(()=>sayHello("Rohan","Dutt"),2000)
+
+        // let val = setInterval(()=>sayHello("Rohan","Dutt"),3000)
+        // let count = 0
+        // function sayHello(firstName,secondName){
+        //     if(count<3){
+        //         console.log(`Hello ${firstName} ${secondName} `)
+        //         console.log(new Date())
+        //         count++;
+        //     }else{
+        //         clearInterval(val)
+        //     }
+
+        // }
+        function func(){
+            // 
+            
+        }
+        let i = 1
+        setInterval(function(){
+            func(i++)
+        },1000)
+
+        let i = 1
+        setTimeout(function run(){
+            func(i++)
+            setTimeout(run,1000);
+        },1000)
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
