@@ -29,7 +29,7 @@ This is the main repository for all of the projects done in the building session
 |30th Dec '21  | [Majority Element-2 & Caesar](https://github.com/duttrohan0302/accio-batch11/tree/master/dec30th)                   | -                      |
 |2nd Jan '22  | [Complexity, Romans & Recursion](https://github.com/duttrohan0302/accio-batch11/tree/master/jan2nd)                   | -                       |
 |3rd Jan '22  | [Fibonnaci & Searching](https://github.com/duttrohan0302/accio-batch11/tree/master/jan3rd)                   | -                       |
-|4th Jan '22  | [Bubble, Insertion & Selection Sort](https://github.com/duttrohan0302/accio-batch11/tree/master/jan5th)                   | -                       |
+|4th Jan '22  | [Bubble, Insertion & Selection Sort](https://github.com/duttrohan0302/accio-batch11/tree/master/jan4th)                   | -                       |
 |5th Jan '22  | [Merge Sort & Check Prime](https://github.com/duttrohan0302/accio-batch11/tree/master/jan5th)                   | -                       |
 |6th Jan '22  | [Binary & Power of 2](https://github.com/duttrohan0302/accio-batch11/tree/master/jan6th)                   | -                       |
 |7th Jan '22  | [Interactive Search & Soundbar](https://github.com/duttrohan0302/accio-batch11/tree/master/jan7th)                   | [Search](https://duttrohan0302.github.io/accio-batch11/jan7th/interactive_search)    [Soundbar](https://duttrohan0302.github.io/accio-batch11/jan7th/soundbar)                   |
