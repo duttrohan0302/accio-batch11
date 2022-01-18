@@ -2,25 +2,7 @@ const form = document.getElementById("form")
 const input = document.getElementById("input")
 const todosUL = document.getElementById("todos")
 
-// const todos = JSON.parse(localStorage.getItem("todos"))
-const todos = [
-    {
-        text: "ABC",
-        completed: true
-    },
-    {
-        text: "DEF",
-        completed:false
-    },
-    {
-        text: "GHI",
-        completed:true
-    },
-    {
-        text: "JKL",
-        completed:false
-    }
-]
+const todos = JSON.parse(localStorage.getItem("todos"))
 
 if(todos){
     todos.forEach(todo=> addTodo(todo))
@@ -41,7 +23,7 @@ function addTodo(todo){
     if(todoText){
         const todoEl = document.createElement("li")
 
-        if(todo && todo.completed){
+        if(todo && todo.isCompleted){
             todoEl.classList.add("completed")
         }
         todoEl.innerText = todoText
@@ -66,14 +48,14 @@ function addTodo(todo){
 }
 
 function updateLS(){
-    todosEl = document.querySelectorAll("li")
+    const todosEls = document.querySelectorAll("li")
 
     const todos = []
 
-    todosEl.forEach(todoEl=>{
+    todosEls.forEach(todoEl=>{
         todos.push({
             text: todoEl.innerText,
-            completed: todoEl.classList.contains("completed")
+            isCompleted: todoEl.classList.contains("completed")
         })
     })
 
