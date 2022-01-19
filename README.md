@@ -40,7 +40,8 @@ This is the main repository for all of the projects done in the building session
 |13th Jan '22  | [Quiz App](https://github.com/duttrohan0302/accio-batch11/tree/master/jan13th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan13th/quiz-app/)                       |
 |14th Jan '22  | [Running Text](https://github.com/duttrohan0302/accio-batch11/tree/master/jan14th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan14th/running_text/)                       |
 |15th Jan '22  | [Stopwatch](https://github.com/duttrohan0302/accio-batch11/tree/master/jan15th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan15th/stopwatch/)                       |
-|15th Jan '22  | [Todos](https://github.com/duttrohan0302/accio-batch11/tree/master/jan17th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan17th/todo-list/)                       |
+|17th Jan '22  | [Todos](https://github.com/duttrohan0302/accio-batch11/tree/master/jan17th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan17th/todo-list/)                       |
+|18th-19th Jan '22  | [Drink Water](https://github.com/duttrohan0302/accio-batch11/tree/master/jan18th_19th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan18th_19th/drink-water/)                       |
 
 ## Acknowledgements
 

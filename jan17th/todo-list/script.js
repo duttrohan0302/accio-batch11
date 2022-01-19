@@ -2,7 +2,7 @@ const form = document.getElementById("form")
 const input = document.getElementById("input")
 const todosUL = document.getElementById("todos")
 
-const todos = JSON.parse(localStorage.getItem("todos"))
+const todos = JSON.parse(localStorage.getItem("todosString"))
 
 if(todos){
     todos.forEach(todo=> addTodo(todo))
@@ -59,5 +59,5 @@ function updateLS(){
         })
     })
 
-    localStorage.setItem("todos",JSON.stringify(todos))
+    localStorage.setItem("todosString",JSON.stringify(todos))
 }
