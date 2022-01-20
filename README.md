@@ -42,6 +42,7 @@ This is the main repository for all of the projects done in the building session
 |15th Jan '22  | [Stopwatch](https://github.com/duttrohan0302/accio-batch11/tree/master/jan15th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan15th/stopwatch/)                       |
 |17th Jan '22  | [Todos](https://github.com/duttrohan0302/accio-batch11/tree/master/jan17th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan17th/todo-list/)                       |
 |18th-19th Jan '22  | [Drink Water](https://github.com/duttrohan0302/accio-batch11/tree/master/jan18th_19th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan18th_19th/drink-water/)                       |
+|20th Jan '22  | [Replit Asian Paints](https://github.com/duttrohan0302/accio-batch11/tree/master/jan20th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan20th/)                       |
 
 ## Acknowledgements
 
