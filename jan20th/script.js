@@ -8,6 +8,7 @@ function resetGrid(){
     for(let i=1;i<=9;i++){
         const gridItem = document.getElementById(i)
         gridItem.style.backgroundColor = "transparent"
+        console.log(gridItem)
     }
 }
 
@@ -21,7 +22,7 @@ function changeColor(){
     if(!colorId.value){
         alert("Please enter colour id")
     }
-    // resetGrid()
+    resetGrid()
 
     const gridItem = document.getElementById(blockId.value)
     gridItem.style.backgroundColor = colorId.value
