@@ -44,6 +44,7 @@ This is the main repository for all of the projects done in the building session
 |18th-19th Jan '22  | [Drink Water](https://github.com/duttrohan0302/accio-batch11/tree/master/jan18th_19th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan18th_19th/drink-water/)                       |
 |20th Jan '22  | [Replit Asian Paints](https://github.com/duttrohan0302/accio-batch11/tree/master/jan20th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan20th/)                       |
 |21st Jan '22  | [Replit Assignments](https://github.com/duttrohan0302/accio-batch11/tree/master/jan21st)                   | [JS Clock](https://duttrohan0302.github.io/accio-batch11/jan21st/jsClock/)   [Tally Times](https://duttrohan0302.github.io/accio-batch11/jan21st/tallyStringTimes)                    |
+|22dn Jan '22  | [OTP and Slider](https://github.com/duttrohan0302/accio-batch11/tree/master/jan22nd)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan22nd/verifyAccount)                       |
 
 ## Acknowledgements
 

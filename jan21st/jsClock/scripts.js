@@ -27,4 +27,12 @@ function setTime(){
 }
 
 setInterval(setTime,10)
+// setInterval(()=>setTime(),10)
+// setInterval(function (){
+
+// },10)
+// setInterval(()=>{
+//     // dfjds
+// },10)
+
 setTime()
