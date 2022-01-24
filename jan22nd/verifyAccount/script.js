@@ -11,9 +11,9 @@ codes.forEach((code,idx)=>{
             codes[idx].value=''
             if(idx<codes.length-1){
                 setTimeout(()=>codes[idx+1].focus(),10)
-                setTimeout(function(){
-                    codes[index+1].focus()
-                },10)
+                // setTimeout(function(){
+                //     codes[index+1].focus()
+                // },10)
             }
         }
         else if(keyPressed==="Backspace"){
