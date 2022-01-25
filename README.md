@@ -46,6 +46,7 @@ This is the main repository for all of the projects done in the building session
 |21st Jan '22  | [Replit Assignments](https://github.com/duttrohan0302/accio-batch11/tree/master/jan21st)                   | [JS Clock](https://duttrohan0302.github.io/accio-batch11/jan21st/jsClock/)   [Tally Times](https://duttrohan0302.github.io/accio-batch11/jan21st/tallyStringTimes)                    |
 |22nd Jan '22  | [OTP](https://github.com/duttrohan0302/accio-batch11/tree/master/jan22nd)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan22nd/verifyAccount)                       |
 |24th Jan '22  | [Slider](https://github.com/duttrohan0302/accio-batch11/tree/master/jan24th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan24th/slider)                       |
+|25th Jan '22  | [Drum Kit](https://github.com/duttrohan0302/accio-batch11/tree/master/jan25th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan25th/)                       |
 
 ## Acknowledgements
 
