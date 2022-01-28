@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+h1{
+    font-size: 30px;
+    color: #000380;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.balloon-container{
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.balloon{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: seagreen;
+}
+
+.zero-balloon{
+    color: red;
+    font-size: 80px;
+    display: none;
+}
