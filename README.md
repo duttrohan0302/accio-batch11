@@ -50,7 +50,7 @@ This is the main repository for all of the projects done in the building session
 |26th Jan '22  | [Sorting without Articles](https://github.com/duttrohan0302/accio-batch11/tree/master/jan26th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan26th/)                       |
 |27th Jan '22  | [Guess the Number](https://github.com/duttrohan0302/accio-batch11/tree/master/jan27th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan27th/)                       |
 |28th Jan '22  | [Balloon Popping](https://github.com/duttrohan0302/accio-batch11/tree/master/jan28th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan28th/)                       |
-|29th Jan '22  | [Counting Task](https://github.com/duttrohan0302/accio-batch11/tree/master/jan29th)                   | [Task Instructions](https://duttrohan0302.github.io/accio-batch11/jan29th/)                       |
+|29th Jan '22  | [Dice Roll Simulation](https://github.com/duttrohan0302/accio-batch11/tree/master/jan29th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan29th/)     [Task Instructions](https://duttrohan0302.github.io/accio-batch11/jan29th/task.html)                      |
 
 ## Acknowledgements
 

@@ -83,9 +83,8 @@ function createGameCard(playerStats,winnerId,numPlayers){
 
         // Last element in the dice roll
         const lastIndexDiceRoll = playerStats[i].rolls.length-1
-        if(lastIndexDiceRoll<0)
-            lastIndexDiceRoll=0
-        tdDiceRoll.innerHTML = playerStats[i].rolls[lastIndexDiceRoll]
+        if(lastIndexDiceRoll>=0)
+            tdDiceRoll.innerHTML = playerStats[i].rolls[lastIndexDiceRoll]
 
         tdDiceRollHistory.innerHTML = playerStats[i].rolls.toString()
 
