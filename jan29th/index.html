@@ -1,38 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Dice Rolls</title>
-  </head>
-  <body>
-    <h1>Tasks</h1>
-    <ul>
-      <li>
-        Input
-        <ul>
-          <li>Grid Size</li>
-          <li>Number of Players</li>
-        </ul>
-      </li>
+<head>
+    <title>Document</title>
+    <style>
+        table,tr,td{
+            border:1px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dice Rolls Game 
+        <a href="./task.html">(Task)</a>
+    </h1>
 
-      <li>Start/Submit Buttons</li>
-      <li>Create a table with the game stats</li>
-      <ul>
-        <li>Player Number</li>
-        <li>Dice Roll</li>
-        <li>All Dice Rolls(history)</li>
-        <li>Path(Position History)</li>
-        <li>Winner Status</li>
-      </ul>
-    </ul>
+    <label for="gridSize">Grid Size</label>
+    <input type="number" name="gridSize" id="gridSize">
+    <br>
+    <br>
+    <label for="playerCount">Number of Players</label>
+    <input type="number" name="playerCount" id="playerCount">
+    <br>
+    <br>
+    <input type="button" value="Start Game" id="submit">
+    <br>
+    <br>
+    <table id="card">
+        <thead>
+            <tr>
+                <td>Player Number</td>
+                <td>Dice Roll</td>
+                <td>Dice Roll History</td>
+                <td>Path (Position History)</td>
+                <td>Winner Status</td>
+            </tr>
+        </thead>
+        <tbody id="card-body">
+        </tbody>
+    </table>
 
-    <h2>Addition Checks</h2>
-    <ul>
-      <li>
-        Game should only end if someone reaches gridSize*gridSize exactly(i.e.
-        25 not 27,28 etc)
-      </li>
-      <li>Game will only start when someone rolls 1 or 6</li>
-      <li>When someone updates the value, you should be able to reset the table without refreshing the page</li>
-    </ul>
-  </body>
+    <script src="script.js"></script>
+</body>
 </html>
