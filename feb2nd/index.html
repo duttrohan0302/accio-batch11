@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Paper Scissors</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/2c6133bcaa.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="text-center mt-3">
+      <h1>
+        WELCOME TO ROCK PAPER SCISSORS GAME!
+      </h1>
+    </div>
+    <div id="message" class="text-center h5">
+
+    </div>
+    <div class="text-center m-5" id="start">
+      <input type="submit" id="submit" class="btn btn-dark" value="Get Started!">
+    </div>
+
+    <div class="boards" id="boards">
+      <div class="row">
+        <div class="col-6 text-center">
+          <h1 class="text-center my-3">Player 1</h1>
+          <div id="playerSide">
+            <h3 id="playerScore"></h3>
+            <div id="playerSelect"></div>
+          </div>
+        </div>
+        <div class="col-6 text-center p-0">
+          <h1 class="text-center my-3">Computer</h1>
+          <div id="computerSide">
+            <h3 id="computerScore"></h3>
+            <div id="computerSelect"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="select" class="text-center w-50 mx-auto select">
+      <div class="row">
+        <div id="rock" class="col-4">
+          <i class="fas fa-hand-rock"></i>
+        </div>
+        <div id="paper" class="col-4">
+          <i class="fas fa-hand-paper"></i>
+        </div>
+        <div id="scissors" class="col-4">
+          <i class="fas fa-hand-scissors"></i>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="script.js"></script> 
+  </body>
+</html>
