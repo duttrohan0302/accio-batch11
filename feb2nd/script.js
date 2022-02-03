@@ -6,6 +6,10 @@ const compSelect = document.getElementById("computerSelect")
 const message = document.getElementById("message")
 const submit = document.getElementById("submit")
 
+const rock = document.getElementById("rock")
+const paper = document.getElementById("paper")
+const scissors = document.getElementById("scissors")
+
 let playerScore = 0;
 let computerScore = 0;
 
@@ -24,16 +28,17 @@ function displayBoards(){
     select.style.display = 'block';
     gameActive = true
 }
-submit.addEventListener("click",displayBoards)
 
 function gameFlow(playerSelection){
     const winnerObject = getMeWinner(playerSelection)
-
+    
     const result = winnerObject.winner
-    const { compMove } = winnerObject
+    // const { compMove } = winnerObject //destructuring
+    const { compMove:computerMove } = winnerObject //destructuring
+    // const compMove = winnerObject.compMove
 
     displaySelection('player',playerSelection,result)
-    displaySelection('computer',compMove,result)
+    displaySelection('computer',computerMove,result)
 
     scoreBoard(result)
     message.innerText = result
@@ -44,14 +49,14 @@ function gameFlow(playerSelection){
 
 function displaySelection(whoIsPlaying,selection,result){
     if(whoIsPlaying==='player'){
-        playerSelect.innerHTML = `<i class="fas fa-hand-${selection}></i>`
+        playerSelect.innerHTML = `<i class="fas fa-hand-${selection}"></i>`
 
         if(result === 'Player won!'){
             playerSelect.style.color = 'green'
             compSelect.style.color = 'red'
         }
     }else{
-        compSelect.innerHTML = `<i class="fas fa-hand-${selection}></i>`
+        compSelect.innerHTML = `<i class="fas fa-hand-${selection}"></i>`
 
         if(result === 'Computer won!'){
             playerSelect.style.color = 'red'
@@ -82,13 +87,6 @@ function scoreBoard(result){
     }
 }
 
-function whoWon(){
-
-}
-
-function reset(){
-
-}
 
 function computerPlay(){
     let arr = ['rock','paper','scissors']
@@ -126,9 +124,39 @@ function getMeWinner(playerSelection){
     })
 }
 
-const rock = document.getElementById("rock")
-const paper = document.getElementById("paper")
-const scissors = document.getElementById("scissors")
+
+function gameFinished(){
+    if(playerScore===5 || computerScore===5){
+        return true
+    }
+    return false
+}
+
+function whoWon(){
+    if(gameFinished()){
+        if(playerScore===5){
+            message.innerText='Player is the winner! Congratulations!'
+        }else{
+            message.innerText = 'Computer is the Winner! You Lose!'
+        }
+    reset()
+    }
+}
+
+function reset(){
+    setTimeout(function(){
+        playerScore = 0;
+        computerScore = 0;
+        compSelect.innerHTML=''
+        playerSelect.innerHTML=''
+        pScore.innerText = 0
+        cScore.innerText = 0
+        gameActive=false
+        message.innerText = 'Choose rock, paper, or scissors to play again'
+    },3000)
+}
+
+submit.addEventListener("click",displayBoards)
 
 rock.addEventListener("click",gameFlow.bind(this,rock.id))
 paper.addEventListener("click",()=>gameFlow(paper.id))
