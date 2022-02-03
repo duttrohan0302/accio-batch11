@@ -113,11 +113,26 @@ function playRound(ps,cs){
     }else if(ps=="scissors" && cs=="paper"){
         return 1
     }
+    // if(ps===cs)
+    //     return 0;
+    // if(ps==="rock"){
+    //     return (cs==="scissors" ? 1 : -1) 
+    // }
+    // if(ps==="")
+    // return ps==='rock' ? (cs==="scissors" ? 1 : -1)  
 }
 function getMeWinner(playerSelection){
     let computerSelection = computerPlay()
     let winner = playRound(playerSelection,computerSelection)
     winner = winner === 0 ? 'Draw!' : (winner===1 ? 'Player won!' : 'Computer won!')
+
+    // if(winner === 0 )
+    //     winner = 'Draw'
+    // else if(winner === 1)
+    //     winner = 'Player won!'
+    // else
+    //     winner = 'Computer won!'
+
     return ({
         winner: winner,
         compMove: computerSelection
