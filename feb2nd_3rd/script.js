@@ -74,17 +74,20 @@ function displaySelection(whoIsPlaying,selection,result){
 
 function scoreBoard(result){
 
-    if(result==='Player won!'){
-        playerScore++
-        pScore.innerText=playerScore
-        cScore.innerText=computerScore
-    }else if(result==='Computer won!'){
-        computerScore++
-        pScore.innerText=playerScore
-        cScore.innerText=computerScore
-    }else{
-        return false
-    }
+    // if(!gameFinished()){
+        if(result==='Player won!'){
+            playerScore++
+            pScore.innerText=playerScore
+            cScore.innerText=computerScore
+        }else if(result==='Computer won!'){
+            computerScore++
+            pScore.innerText=playerScore
+            cScore.innerText=computerScore
+        }else{
+            return false
+        }
+    // }
+
 }
 
 
