@@ -52,7 +52,7 @@ This is the main repository for all of the projects done in the building session
 |28th Jan '22  | [Balloon Popping](https://github.com/duttrohan0302/accio-batch11/tree/master/jan28th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan28th/)                       |
 |29th Jan '22  | [Dice Roll Simulation](https://github.com/duttrohan0302/accio-batch11/tree/master/jan29th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan29th/)     [Task Instructions](https://duttrohan0302.github.io/accio-batch11/jan29th/task.html)                      |
 |31st Jan - 1st Feb '22  | [Quick Click](https://github.com/duttrohan0302/accio-batch11/tree/master/jan31st_feb1st)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan31st_feb1st/)                       |
-|2nd Feb '22  | [Rock Paper Scissors](https://github.com/duttrohan0302/accio-batch11/tree/master/feb2nd)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/feb2nd/)                       |
+|2nd - 3rd Feb '22  | [Rock Paper Scissors](https://github.com/duttrohan0302/accio-batch11/tree/master/feb2nd_3rd)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/feb2nd_3rd/)                       |
 
 ## Acknowledgements
 
