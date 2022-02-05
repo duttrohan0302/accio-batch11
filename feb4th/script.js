@@ -41,14 +41,16 @@ function initializeGame() {
     // Add event listener for clicking
     div.addEventListener("click", function () {
 
-      if(!div.innerText){
+      if(!div.innerText && playGame){
         div.innerText = activePlayer === 0 ? "x" : "o";
         const winner = checkWinner()
-        updateActivePlayer();
-        setTimeout(
-          showMessage(`${activePlayer === 0 ? player1 : player2}, you're up`),
-          1000
-        );
+
+        if(!winner){
+          updateActivePlayer();
+          showMessage(`${activePlayer === 0 ? player1 : player2}, you're up`)
+        }else{
+          showMessage(`${activePlayer===0 ? player1: player2}, congratulations you won!`)
+        }
       }
 
 
@@ -69,7 +71,29 @@ const winningSequences = [
     [2,4,6]
 ]
 function checkWinner(){
+    let winnerBool = false
 
+    for(let i=0;i<winningSequences.length;i++){
+      const winningCombo = winningSequences[i];
+
+      const cell1 = document.getElementById(winningCombo[0]+1)
+      const cell2 = document.getElementById(winningCombo[1]+1)
+      const cell3 = document.getElementById(winningCombo[2]+1)
+
+      const val1 = cell1.innerText
+      const val2 = cell2.innerText
+      const val3 = cell3.innerText
+
+      if(val1===val2 && val2===val3 && val1!=''){
+        winnerBool = true
+        playGame = false
+        cell1.style.backgroundColor="purple"
+        cell2.style.backgroundColor="purple"
+        cell3.style.backgroundColor="purple"
+        break;
+      }
+    }
+    return winnerBool
 }
 
 submit.addEventListener("click", initializeGame);
