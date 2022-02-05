@@ -1,1 +1,79 @@
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;0,900;1,300;1,700&display=swap");
+
+html{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    min-height: 100vh;
+    background-color: #000000;
+    background-image: url("bg.jpeg");
+    color: white;
+    font-family: "Merriweather",serif;
+    font-weight: 700;
+    text-align: center;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quote-container{
+    width: auto;
+    max-width: 900px;
+    padding: 20px 30px;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.5);
+    /* box shadow */
+}
+
+.quote-text{
+    font-size: 2.75rem;
+}
+
+.long-quote{
+    font-size: 2rem;
+}
+
+.fa-quote-left{
+    font-size: 4rem;
+}
+
+.quote-author{
+    margin-top: 15px;
+    font-size: 2rem;
+    font-weight: 300;
+    font-style: italic;
+}
+
+button{
+    cursor: pointer;
+    font-size: 1.2rem;
+    height: 2.5rem;
+    border: none;
+    margin-top: 15px;
+    border-radius: 10px;
+    color: white;
+    background-color: #20201f;
+    outline: none;
+    padding: 0.5rem 1.8rem;
+}
+
+.loader{
+    border: 16px solid #f3f3f3;
+    border-top: 16px solid #1f0700;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

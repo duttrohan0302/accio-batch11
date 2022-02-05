@@ -54,6 +54,7 @@ This is the main repository for all of the projects done in the building session
 |31st Jan - 1st Feb '22  | [Quick Click](https://github.com/duttrohan0302/accio-batch11/tree/master/jan31st_feb1st)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/jan31st_feb1st/)                       |
 |2nd - 3rd Feb '22  | [Rock Paper Scissors](https://github.com/duttrohan0302/accio-batch11/tree/master/feb2nd_3rd)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/feb2nd_3rd/)                       |
 |4th Feb '22  | [Tic Tac Toe](https://github.com/duttrohan0302/accio-batch11/tree/master/feb4th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/feb4th/)                       |
+|5th Feb '22  | [Random Quotes](https://github.com/duttrohan0302/accio-batch11/tree/master/feb5th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/feb5th/)                       |
 
 ## Acknowledgements
 
