@@ -1,5 +1,6 @@
 ## Projects
 
+
 1. [Speed typing](https://www.youtube.com/watch?v=R-7eQIHRszQ&list=PLKx9ea-Aix4RT7OCMdTLsABzgkC0n0H7O&index=1)
 2. [Meditation app](https://www.youtube.com/watch?v=oMBXdZzYqEk&list=PLKx9ea-Aix4RT7OCMdTLsABzgkC0n0H7O&index=35)
 3. [Weather app](https://www.youtube.com/watch?v=wPElVpR1rwA&list=PLKx9ea-Aix4RT7OCMdTLsABzgkC0n0H7O&index=4)
