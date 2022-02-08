@@ -55,7 +55,8 @@ This is the main repository for all of the projects done in the building session
 |2nd - 3rd Feb '22  | [Rock Paper Scissors](https://github.com/duttrohan0302/accio-batch11/tree/master/feb2nd_3rd)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/feb2nd_3rd/)                       |
 |4th Feb '22  | [Tic Tac Toe](https://github.com/duttrohan0302/accio-batch11/tree/master/feb4th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/feb4th/)                       |
 |5th Feb '22  | [Random Quotes](https://github.com/duttrohan0302/accio-batch11/tree/master/feb5th)                   | [Live Demo](https://duttrohan0302.github.io/accio-batch11/feb5th/)                       |
-
+|Hiatus Projects | [Projects](https://github.com/duttrohan0302/accio-batch11/tree/master/hiatus/links.md)
+||
 ## Acknowledgements
 
 The projects discussed in this repo are taken from various sources and the rights to them belongs to their respective owners only. This repo is just a way for students to build and learn web technologies like HTML, CSS, Bootstrap and Javascript.
