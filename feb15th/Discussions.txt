@@ -1,0 +1,13 @@
+Discussions
+
+Local Storage
+Async await
+Classes in JS
+Data type in html tag
+
+
+Medidation App =>
+1. Timer(Play, pause button, selecting amount of time, countdown)
+2. Audio and Video change(video z index -10) => Go back to the sound assignments(JS Drum Kit, Soundbar)
+
+
