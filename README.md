@@ -59,6 +59,7 @@ This is the main repository for all of the projects done in the building session
 |15th Feb '22 | [Meditation App](https://github.com/duttrohan0302/accio-batch11/tree/master/feb15th/) |[Live Demo](https://duttrohan0302.github.io/accio-batch11/feb15th/meditation/)|
 |17th Feb '22 | [Booklist App](https://github.com/duttrohan0302/accio-batch11/tree/master/feb17th/) |[Live Demo](https://duttrohan0302.github.io/accio-batch11/feb17th/booklist/)|
 |18th Feb '22 | [Typing Test](https://github.com/duttrohan0302/accio-batch11/tree/master/feb18th/) |[Live Demo](https://duttrohan0302.github.io/accio-batch11/feb18th/speed_typing/) [React Troubleshooting](https://github.com/duttrohan0302/accio-batch11/tree/master/feb18th/startingWithReact.md)|
+|19th Feb '22 | [Infinite Scroll](https://github.com/duttrohan0302/accio-batch11/tree/master/feb19th/infinite_scroll) [Drag and Drop](https://github.com/duttrohan0302/accio-batch11/tree/master/feb19th/drag_drop) |[Drag & Drop Demo](https://duttrohan0302.github.io/accio-batch11/feb19th/drag_drop/) |
 
 ## Acknowledgements
 
