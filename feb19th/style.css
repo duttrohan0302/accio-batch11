@@ -1,0 +1,56 @@
+html{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    color: rgb(0,0,0);
+    background: whitesmoke;
+}
+
+h1{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 40px;
+    letter-spacing: 4px;
+}
+
+.loader{
+    position: fixed;
+    /* top:0;
+    left: 0;
+    right: 0;
+    bottom: 0; */
+    background: rgba(255,255,255,0.7);
+}
+
+.loader img{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.image-container{
+    margin: 10px 10%;
+}
+
+.image-container img{
+    width: 30%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+@media screen and (max-width: 1000px){
+    h1{
+        font-size: 25px;
+    }
+    .image-container{
+        margin: 10px;
+    }
+    .image-container img{
+        width: 100%;
+        margin-top: 5px;
+    }
+}
