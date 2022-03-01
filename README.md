@@ -64,6 +64,7 @@ This is the main repository for all of the projects done in the building session
 |22nd Feb '22 | [Intro to Testing](https://github.com/duttrohan0302/accio-batch11/tree/master/feb22nd) |[How to](https://github.com/duttrohan0302/accio-batch11/tree/master/feb22nd/howTo.md)|
 |23rd Feb '22 | [File System Basics](https://github.com/duttrohan0302/accio-batch11/tree/master/feb23rd) |-|
 |24th-25th Feb '22 | [Sorting Visualizer](https://github.com/duttrohan0302/accio-batch11/tree/master/feb24th_25th) |[Live Demo](https://duttrohan0302.github.io/accio-batch11/feb24th_25th/)|
+|1st Mar '22 | [React Components - Tabs](https://github.com/duttrohan0302/accio-batch11/tree/master/mar1st) |-|
 
 ## Acknowledgements
 
