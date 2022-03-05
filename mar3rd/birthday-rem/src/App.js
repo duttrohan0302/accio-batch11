@@ -2,16 +2,25 @@ import React from "react";
 import './App.css';
 import Birthdays from "./Components/Birthdays";
 
-class App extends React.Component{
+// class App extends React.Component{
 
-  render(){
+//   render(){
+
+//     return(
+//       <div>
+//         <Birthdays />
+//       </div>
+//     )
+//   }
+// }
+
+const App = () => {
 
     return(
       <div>
         <Birthdays />
       </div>
     )
-  }
 }
 
 export default App;
