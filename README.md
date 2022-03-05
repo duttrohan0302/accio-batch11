@@ -64,10 +64,10 @@ This is the main repository for all of the projects done in the building session
 |22nd Feb '22 | [Intro to Testing](https://github.com/duttrohan0302/accio-batch11/tree/master/feb22nd) |[How to](https://github.com/duttrohan0302/accio-batch11/tree/master/feb22nd/howTo.md)|
 |23rd Feb '22 | [File System Basics](https://github.com/duttrohan0302/accio-batch11/tree/master/feb23rd) |-|
 |24th-25th Feb '22 | [Sorting Visualizer](https://github.com/duttrohan0302/accio-batch11/tree/master/feb24th_25th) |[Live Demo](https://duttrohan0302.github.io/accio-batch11/feb24th_25th/)|
-|1st Mar '22 | [React Components - Tabs](https://github.com/duttrohan0302/accio-batch11/tree/master/mar1st) |-|
-|2nd Mar '22 | [Markdown](https://github.com/duttrohan0302/accio-batch11/tree/master/mar2nd/) |-|
-|3rd Mar '22 | [Birthday Reminder](https://github.com/duttrohan0302/accio-batch11/tree/master/mar3rd/) |-|
-|4th Mar '22 | [Tours](https://github.com/duttrohan0302/accio-batch11/tree/master/mar4th/) |-|
+|1st Mar '22 | [React Components - Tabs](https://github.com/duttrohan0302/accio-batch11/tree/master/mar1st) |[Live Demo](https://tabs-acciojob-b11-react.netlify.app)|
+|2nd Mar '22 | [Markdown](https://github.com/duttrohan0302/accio-batch11/tree/master/mar2nd/) |[Live Demo](https://markdown-acciojob-b11-react.netlify.app)|
+|3rd Mar '22 | [Birthday Reminder](https://github.com/duttrohan0302/accio-batch11/tree/master/mar3rd/) |[Live Demo](https://birthdays-acciojob-b11-react.netlify.app)|
+|4th Mar '22 | [Tours](https://github.com/duttrohan0302/accio-batch11/tree/master/mar4th/) |[Tours](https://tours-acciojob-b11-react.netlify.app)|
 
 ## Acknowledgements
 
