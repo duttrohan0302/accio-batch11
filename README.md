@@ -68,7 +68,7 @@ This is the main repository for all of the projects done in the building session
 |2nd Mar '22 | [Markdown](https://github.com/duttrohan0302/accio-batch11/tree/master/mar2nd/) |[Live Demo](https://markdown-acciojob-b11-react.netlify.app)|
 |3rd Mar '22 | [Birthday Reminder](https://github.com/duttrohan0302/accio-batch11/tree/master/mar3rd/) |[Live Demo](https://birthdays-acciojob-b11-react.netlify.app)|
 |4th Mar '22 | [Tours](https://github.com/duttrohan0302/accio-batch11/tree/master/mar4th/) |[Live Demo](https://tours-acciojob-b11-react.netlify.app)|
-|5th Mar '22 | [Reviews](https://github.com/duttrohan0302/accio-batch11/tree/master/mar5th/) |[Live Demo](https://reviews-acciojob-b11-react.netlify.app)|
+|5th Mar '22 | [Reviews](https://github.com/duttrohan0302/accio-batch11/tree/master/mar5th/) |[Live Demo](https://reviews-acciojob-b11-react.netlify.app) [Deployment](https://github.com/duttrohan0302/accio-batch11/blob/master/mar5th/deployment.md)|
 
 ## Acknowledgements
 
