@@ -69,7 +69,10 @@ This is the main repository for all of the projects done in the building session
 |3rd Mar '22 | [Birthday Reminder](https://github.com/duttrohan0302/accio-batch11/tree/master/mar3rd/) |[Live Demo](https://birthdays-acciojob-b11-react.netlify.app)|
 |4th Mar '22 | [Tours](https://github.com/duttrohan0302/accio-batch11/tree/master/mar4th/) |[Live Demo](https://tours-acciojob-b11-react.netlify.app)|
 |5th Mar '22 | [Reviews](https://github.com/duttrohan0302/accio-batch11/tree/master/mar5th/) |[Live Demo](https://reviews-acciojob-b11-react.netlify.app) [Deployment](https://github.com/duttrohan0302/accio-batch11/blob/master/mar5th/deployment.md)|
-|5th Mar '22 | [Menu](https://github.com/duttrohan0302/accio-batch11/tree/master/mar7th/menu/) [Experience](https://github.com/duttrohan0302/accio-batch11/tree/master/mar7th/experience/) |[Menu](https://menu-acciojob-b11-react.netlify.app) [Experience](https://experience-acciojob-b11-react.netlify.app)|
+|7th Mar '22 | [Menu](https://github.com/duttrohan0302/accio-batch11/tree/master/mar7th/menu/) [Experience](https://github.com/duttrohan0302/accio-batch11/tree/master/mar7th/experience/) |[Menu](https://menu-acciojob-b11-react.netlify.app) [Experience](https://experience-acciojob-b11-react.netlify.app)|
+|8th Mar '22 | [Menu](https://github.com/duttrohan0302/accio-batch11/tree/master/mar8th/slider/) [JS Promises](https://github.com/duttrohan0302/accio-batch11/tree/master/mar8th/promises.js/) |[Live Demo](https://slider-acciojob-b11-react.netlify.app)|
+
+
 ## Acknowledgements
 
 The projects discussed in this repo are taken from various sources and the rights to them belongs to their respective owners only. This repo is just a way for students to build and learn web technologies like HTML, CSS, Bootstrap and Javascript.
