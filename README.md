@@ -75,12 +75,17 @@ This is the main repository for all of the projects done in the building session
 |10th Mar '22 | [Random Text](https://github.com/duttrohan0302/accio-batch11/tree/master/mar10th/randomText/) [Bootstrap Forms](https://github.com/duttrohan0302/accio-batch11/tree/master/mar10th/bootstrap/) |[Random Text](https://randomText-acciojob-b11-react.netlify.app) [Forms](https://forms-acciojob-b11-react.netlify.app)|
 |11th Mar '22 | [OOPS](https://github.com/duttrohan0302/accio-batch11/tree/master/mar11th/oops.md) |-|
 |12th Mar '22 | [Alarm Clock](https://github.com/duttrohan0302/accio-batch11/tree/master/mar12th/)|[Live Demo](https://duttrohan0302.github.io/accio-batch11/mar12th/)|
+|14th Mar '22 | [React.memo & useMemo](https://github.com/duttrohan0302/accio-batch11/tree/master/mar14th/)|[Live Demo](https://memo-acciojob-b11-react.netlify.app) [Concepts](https://duttrohan0302.github.io/accio-batch11/mar14th/Concepts.md)|
 
 
 
 ## Acknowledgements
 
-The projects discussed in this repo are taken from various sources and the rights to them belongs to their respective owners only. This repo is just a way for students to build and learn web technologies like HTML, CSS, Bootstrap and Javascript.
+The projects discussed in this repo are taken from various sources and the rights to them belongs to their respective owners only. This repo is just a way for students to build and learn web technologies like HTML, CSS, Bootstrap, Javascript and React.
 
-
+Topics Remaining
+- Hooks - useRef, useContext, useReducer, useCallback, 
+- Router
+- Redux
+- 1 large scale project
 
