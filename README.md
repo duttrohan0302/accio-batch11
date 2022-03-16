@@ -75,16 +75,16 @@ This is the main repository for all of the projects done in the building session
 |10th Mar '22 | [Random Text](https://github.com/duttrohan0302/accio-batch11/tree/master/mar10th/randomText/) [Bootstrap Forms](https://github.com/duttrohan0302/accio-batch11/tree/master/mar10th/bootstrap/) |[Random Text](https://randomText-acciojob-b11-react.netlify.app) [Forms](https://forms-acciojob-b11-react.netlify.app)|
 |11th Mar '22 | [OOPS](https://github.com/duttrohan0302/accio-batch11/tree/master/mar11th/oops.md) |-|
 |12th Mar '22 | [Alarm Clock](https://github.com/duttrohan0302/accio-batch11/tree/master/mar12th/)|[Live Demo](https://duttrohan0302.github.io/accio-batch11/mar12th/)|
-|14th Mar '22 | [React.memo & useMemo](https://github.com/duttrohan0302/accio-batch11/tree/master/mar14th/)|[Live Demo](https://memo-acciojob-b11-react.netlify.app) [Concepts](https://duttrohan0302.github.io/accio-batch11/mar14th/Concepts.md)|
-|15th Mar '22 | [Refs, Callback](https://github.com/duttrohan0302/accio-batch11/tree/master/mar15th/refs-callback/) [Forms- useState, useRef](https://github.com/duttrohan0302/accio-batch11/tree/master/mar15th/forms/)|[Refs, Callback](https://refs-callback-acciojob-b11-react.netlify.app) [Forms](https://forms-ref-state-acciojob-b11-react.netlify.app) [Concepts](https://duttrohan0302.github.io/accio-batch11/mar15th/Concepts.md)|
-
+|14th Mar '22 | [React.memo & useMemo](https://github.com/duttrohan0302/accio-batch11/tree/master/mar14th/)|[Live Demo](https://memo-acciojob-b11-react.netlify.app) [Concepts](https://github.com/duttrohan0302/accio-batch11/tree/master/mar14th/Concepts.md)|
+|15th Mar '22 | [Refs, Callback](https://github.com/duttrohan0302/accio-batch11/tree/master/mar15th/refs-callback/) [Forms- useState, useRef](https://github.com/duttrohan0302/accio-batch11/tree/master/mar15th/forms/)|[Refs, Callback](https://refs-callback-acciojob-b11-react.netlify.app) [Forms](https://forms-ref-state-acciojob-b11-react.netlify.app) [Concepts](https://github.com/duttrohan0302/accio-batch11/tree/master/mar15th/refs-callback/Concepts.md)|
+|16th Mar '22 | [useContext & useReducer](https://github.com/duttrohan0302/accio-batch11/tree/master/mar16th/)|[Live Demo](https://context-reducer-acciojob-b11-react.netlify.app) [Concepts](https://github.com/duttrohan0302/accio-batch11/tree/master/mar16th/context-reducer/Concepts.md)|
 
 ## Acknowledgements
 
-The projects discussed in this repo are taken from various sources and the rights to them belongs to their respective owners only. This repo is just a way for students to build and learn web technologies like HTML, CSS, Bootstrap, Javascript and React.
+The projects discussed in this repo are taken from various sources and the rights to them belongs to their respective owners only. This repo is just a way for students to build and learn web technologies like HTML, CSS, Bootstrap, Javascript, React and Redux.
 
 Topics Remaining
-- Hooks - useContext, useReducer, 
+- Hooks - useContext, useReducer
 - Router
 - Redux
 - 1 large scale project

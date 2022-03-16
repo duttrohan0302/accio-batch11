@@ -9,10 +9,10 @@ const App = () => {
 
     return(
         <div>
-            {/* <h2>use Context Hook</h2>
-            <ContextComp /> */}
+            <h2>use Context Hook</h2>
+            <ContextComp />
             <h2>use Reducer Hook</h2>
-            {/* <ReducerComp /> */}
+            <ReducerComp />
             <ReducerComp2 />
         </div>
     )
