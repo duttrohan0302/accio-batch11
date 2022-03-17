@@ -10,4 +10,5 @@
 - Fancy word for a function that takes 2 values and returns 1 value
 
 
+Redux > Context + useContext
 Discussion regarding projects and resume - last 10-15 mins

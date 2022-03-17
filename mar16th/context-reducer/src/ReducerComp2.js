@@ -15,6 +15,10 @@ const ShoppingList = () => {
                         name:action.name
                     }
                 ];
+            case 'remove':
+                return state.filter((item,index)=>index!==action.index)
+            case 'clear':
+                return []
             default:
                 return state;
 
@@ -23,10 +27,11 @@ const ShoppingList = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault()
-        dispatch({
+        const action = {
             type: 'add',
             name: inputRef.current.value
-        })
+        }
+        dispatch(action)
         inputRef.current.value=''
     }
     return(
@@ -34,12 +39,16 @@ const ShoppingList = () => {
             <form onSubmit = {handleSubmit}>
                 <input ref={inputRef} />
             </form>
+            <button onClick={()=>dispatch({type:"clear"})}>Clear List</button>
             {
                 items.map((item,index)=>(
                     <li key={item.id}>
                         {item.name}
-                        {/* <button 
-                            onClick={()=>dispatch({type})} */}
+                        <button 
+                            onClick={()=>dispatch({type:'remove',index})}
+                            >
+                        remove
+                        </button>
                     </li>
                 ))
             }
