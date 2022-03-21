@@ -79,6 +79,7 @@ This is the main repository for all of the projects done in the building session
 |15th Mar '22 | [Refs, Callback](https://github.com/duttrohan0302/accio-batch11/tree/master/mar15th/refs-callback/) [Forms- useState, useRef](https://github.com/duttrohan0302/accio-batch11/tree/master/mar15th/forms/)|[Refs, Callback](https://refs-callback-acciojob-b11-react.netlify.app) [Forms](https://forms-ref-state-acciojob-b11-react.netlify.app) [Concepts](https://github.com/duttrohan0302/accio-batch11/tree/master/mar15th/refs-callback/Concepts.md)|
 |16th Mar '22 | [useContext & useReducer](https://github.com/duttrohan0302/accio-batch11/tree/master/mar16th/)|[Live Demo](https://context-reducer-acciojob-b11-react.netlify.app) [Concepts](https://github.com/duttrohan0302/accio-batch11/tree/master/mar16th/context-reducer/Concepts.md)|
 |17th Mar '22 | [Cart](https://github.com/duttrohan0302/accio-batch11/tree/master/mar17th/)|[Live Demo](https://cart-acciojob-b11-react.netlify.app) |
+|21st-22nd Mar '22 | [Cocktails](https://github.com/duttrohan0302/accio-batch11/tree/master/mar21st/)|[Live Demo](https://cocktails-acciojob-b11-react.netlify.app) |
 
 ## Acknowledgements
 
