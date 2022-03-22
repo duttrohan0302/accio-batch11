@@ -1,12 +1,11 @@
 import React from "react";
-// import SearchForm from "../components/SearchForm"
-// import CocktailList from "../components/CocktailList"
+import SearchForm from "../components/SearchForm"
+import CocktailList from "../components/CocktailList"
 export default function Home(){
     return(
         <main>
-            Home
-            {/* <SearchForm />
-            <CocktailList /> */}
+            <SearchForm />
+            <CocktailList />
         </main>
     )
 }
