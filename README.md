@@ -81,11 +81,10 @@ This is the main repository for all of the projects done in the building session
 |17th Mar '22 | [Cart](https://github.com/duttrohan0302/accio-batch11/tree/master/mar17th/)|[Live Demo](https://cart-acciojob-b11-react.netlify.app) |
 |21st-22nd Mar '22 | [Cocktails](https://github.com/duttrohan0302/accio-batch11/tree/master/mar21st/)|[Live Demo](https://cocktails-acciojob-b11-react.netlify.app) |
 |22nd Mar '22 | [Dummy Login API](https://github.com/duttrohan0302/accio-batch11/tree/master/mar22nd/)|[Live Demo](https://dummy-login-acciojob-b11-react.netlify.app) |
+|23rd Mar '22 | [Redux Mini App](https://github.com/duttrohan0302/accio-batch11/tree/master/mar23rd)|[Live Demo](https://counter-todo-acciojob-b11-react.netlify.app) |
 
 ## Acknowledgements
 
 The projects discussed in this repo are taken from various sources and the rights to them belongs to their respective owners only. This repo is just a way for students to build and learn web technologies like HTML, CSS, Bootstrap, Javascript, React and Redux.
 
-Topics Remaining
-- Redux
-
+- Resume analysis
