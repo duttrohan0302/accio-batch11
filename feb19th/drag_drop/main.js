@@ -3,7 +3,7 @@ const lists = document.querySelectorAll(".list");
 
 let draggedItem = null;
 
-let lists = [["title 1", "title 2"], ["title 5"], ["title 4", "title 3"]];
+// let lists = [["title 1", "title 2"], ["title 5"], ["title 4", "title 3"]];
 for (let i = 0; i < list_items.length; i++) {
   const item = list_items[i];
 
